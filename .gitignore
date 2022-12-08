@@ -1,4 +1,4 @@
-/data/fashion_mnist/*
+/data/fashionMNIST/*
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
