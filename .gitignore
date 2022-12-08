@@ -1,3 +1,5 @@
+./data/fashion_mnist/*
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
